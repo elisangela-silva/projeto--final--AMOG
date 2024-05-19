@@ -6,7 +6,7 @@
 
 .cabecalho {
 
-    background-color:rgb(228, 115, 115);
+    background-color: palevioletred;
     height: 103px;
     width: 100;
     display: flex;
@@ -33,12 +33,12 @@ li {
 
 .perfil {
     background-color:white;
-    height: 450px; 
+    height: 500px; 
     text-align:center;
 }
 
 h1 {
-    color: #e70f57;
+    color: palevioletred    ;
     font: size 36px; 
     }
 
@@ -73,13 +73,13 @@ img {
     
 
 .artigo-formacao {
-    margin-bottom:50px ;
+    margin-bottom:20px ;
 }
 
 .titulo-secao {
     color: palevioletred;
     font-size: 24px;
-margin-bottom: 60px;
+margin-bottom: 30px;
 }
 
 .titulo-item {
